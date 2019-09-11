@@ -1,5 +1,5 @@
 # Randomizer Website
-> A lightweight PHP frontend built with html5 and CSS3!
+> A lightweight PHP frontend built with HTML5, CSS3 and a bit of vanilla JS!
 
 ### Features
 * Automatically updating download buttons
