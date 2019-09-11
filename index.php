@@ -191,7 +191,8 @@
 								<img class="blackbor" src="img/wii_3.jpg" />
 								If you're using NeogammaTP, turn off Custom TP Cheats
 								<br />
-								<!--<img class="blackbor" src="img/wii_4.jpg" />-->
+								<img class="blackbor" src="img/wii_4.jpg" />
+								<img class="blackbor" src="img/wii_5.jpg" />
 								Launch game!
 							</p>
 							<hr />
