@@ -81,26 +81,35 @@
 							<p>
 								<b>Setting up your SD Card</b>
 								<br />
-								Download these two files:
+								Download these three files:
 							</p>
 							<table>
 								<tr>
 									<td class="rBor">
 										<a href="https://takarikka.github.io/files/nintendont.zip" target="_blank"><img src="img/nintendont.png" /></a>
 									</td>
-									<td>
+									<td class="rBor">
 										<a href="https://takarikka.github.io/files/gcmm.zip" target="_blank"><img src="img/github.png" /></a>
+									</td>
+									<td>
+										<a href="https://mirror.tpspeed.run/Software/Homebrew/Wii/NeoGamma%20Twilight%20Princess.zip" target="_blank"><img src="img/neogamma.png" /></a>
 									</td>
 								</tr>
 								<tr>
 									<td class="rBor">
 										<a href="https://takarikka.github.io/files/nintendont.zip" target="_blank">Nintendont<br />Package</a>
 									</td>
-									<td>
+									<td class="rBor">
 										<a href="https://takarikka.github.io/files/gcmm.zip" target="_blank">GCMM 1.4f</a>
+									</td>
+									<td>
+										<a href="https://mirror.tpspeed.run/Software/Homebrew/Wii/NeoGamma%20Twilight%20Princess.zip" target="_blank">Neogamma</a>
 									</td>
 								</tr>
 							</table>
+							<p>
+							Install Neogamma using your Homebrew Channel.
+							</p>
 							<p>
 								Create an "apps" folder on your SD card then extract the files you downloaded earlier in it.
 								<br />
@@ -182,7 +191,7 @@
 								<img class="blackbor" src="img/wii_3.jpg" />
 								If you're using NeogammaTP, turn off Custom TP Cheats
 								<br />
-								<img class="blackbor" src="img/wii_4.jpg" />
+								<!--<img class="blackbor" src="img/wii_4.jpg" />-->
 								Launch game!
 							</p>
 							<hr />
