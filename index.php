@@ -193,7 +193,14 @@
 								<br />
 								<img class="blackbor" src="img/wii_4.jpg" />
 								<img class="blackbor" src="img/wii_5.jpg" />
+							<p>
 								Launch game!
+							</p>
+							<p class="red">
+								If when you load Nintendont and load up the game the screen turns green:<br />
+								Turn off cheats.<br />
+								Return to the Homebrew Channel by pressing R+Z+B+D-Pad Down.<br />
+								Enable cheats and load it again.
 							</p>
 							<hr />
 						</div>
@@ -225,7 +232,7 @@
 							<p>
 								Which version of Dolphin are you using?
 							</p>
-							<p style="color: #d62013; font-size: 1em; margin-top: -22.5px;">
+							<p class="red">
 								Disclaimer: This is sometimes innacurate, if you don't see the same thing than on the screenshots and cannot follow the tutorial, please click on the other button.
 							</p>
 							<label>
@@ -272,7 +279,6 @@
 							<p>
 								Save and close config. Make sure code is enabled
 							</p>
-							<br />
 							<img class="high5 blackbor" src="img/dol_4.png" />
 							<img class="low5 blackbor" src="img/dol_4_oldv.png" />
 							<p>

@@ -83,7 +83,8 @@ p
 {
 	line-height: 2.5;
 	font-size: 1.25em;
-font-weight: 300}
+	font-weight: 300;
+}
 
 div > a > img
 {
@@ -106,7 +107,7 @@ p > span
 	display: inline;
 }
 
-/* Classes */
+/* Classes */ 
 .hr2
 {
 	width: 300px;
@@ -143,6 +144,13 @@ img.flag
 	margin: auto;
 	width: 250px;
 	display: inline-block;
+}
+
+.red
+{
+	color: #d62013;
+    font-size: 1em;
+	margin: 22.5px;
 }
 
 /* Dropdown menus */
