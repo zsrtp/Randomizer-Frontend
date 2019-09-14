@@ -351,10 +351,11 @@
 			</div>
 			<div class="blackbg" style="padding: 0px; margin-bottom: 0px;">
 				<p>
-					v1.08 - Made with 
+					v1.09 - Made with 
 					<img style="display: inline; margin: 0px 0px -10px;" src="img/heart.png" />
 					 by 
-					<a href="https://github.com/zsrtp/Randomizer-Frontend" target="_blank" style="color: #d62013;">Luneyes</a>
+					<a href="https://github.com/zsrtp/Randomizer-Frontend" target="_blank" style="color: #d62013;">Luneyes</a>! 
+					Logo made by <a href="https://twitter.com/MelonSpeedruns" target="_blank" style="color: #d62013;">MelonSpeedruns</a>!
 				</p>
 			</div>
 		</div>
