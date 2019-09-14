@@ -225,16 +225,19 @@
 							<p>
 								Which version of Dolphin are you using?
 							</p>
+							<p style="color: #d62013; font-size: 1em; margin-top: -22.5px;">
+								Disclaimer: This is sometimes innacurate, if you don't see the same thing than on the screenshots and cannot follow the tutorial, please click on the other button.
+							</p>
 							<label>
 								<input type="radio" name="ver" value="1">
 								<div class="btn btn-1 btn-1a" type="button" onclick="DolVer('low5')">
-									Lower than 5.0
+									Lower than 5.0-7
 								</div>
 							</label>
 							<label>
 								<input type="radio" name="ver" value="2" checked>
 								<div class="btn btn-1 btn-1a" type="button" onclick="DolVer('high5')">
-									5.0 or higher
+									5.0-7 or higher
 								</div>
 							</label>
 							<p>
@@ -261,7 +264,8 @@
 							<a class="eur" href="https://github.com/zsrtp/GC-DevTools/blob/master/relloader/Code/RELLoaderGecko_EU.txt" download><img class="eur blackbor flag" src="img/eur.jpg" /></a>
 							<a class="jap" href="https://github.com/zsrtp/GC-DevTools/blob/master/relloader/Code/RELLoaderGecko_JP.txt" download><img class="jap blackbor flag" src="img/jpn.jpg" /></a>
 							<p>
-								Make a new line with "[Gecko]" and paste the REL Loader code under it
+								<span class="spanLow5">Make a new line with "[Gecko]" and paste the REL Loader code under it</span>
+								<span class="spanHigh5">Paste the code in the "Code:" black space and click on "Save"</span>
 							</p>
 							<img class="high5 blackbor" src="img/dol_3.png" />
 							<img class="low5 blackbor" src="img/dol_3_oldv.png" />
