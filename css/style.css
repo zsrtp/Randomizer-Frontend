@@ -8,6 +8,11 @@
 }
 
 /* Base */
+@font-face {
+  font-family: Ravenna;
+  src: url(Ravenna.ttf);
+}
+
 html
 {
 	background: url(../img/bg.webp) no-repeat center center fixed;
@@ -31,7 +36,11 @@ a
 
 h1
 {
+	font-family: Ravenna;
 	margin-top: 0px;
+	
+	position: relative;
+	/* background: linear-gradient(to bottom, #ffffff,#ffffff, #55129f, #55129f); */
 	background: linear-gradient(to right bottom, #d62013, #d62013, #000000);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;

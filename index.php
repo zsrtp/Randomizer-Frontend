@@ -354,8 +354,12 @@
 					v1.09 - Made with 
 					<img style="display: inline; margin: 0px 0px -10px;" src="img/heart.png" />
 					 by 
-					<a href="https://github.com/zsrtp/Randomizer-Frontend" target="_blank" style="color: #d62013;">Luneyes</a>! 
-					Logo made by <a href="https://twitter.com/MelonSpeedruns" target="_blank" style="color: #d62013;">MelonSpeedruns</a>!
+					<a href="https://github.com/zsrtp/Randomizer-Frontend" target="_blank" style="color: #d62013;">Luneyes</a>!<br/>
+					
+					Logo and background image are property of Nintendo. No infringement intended. We love you guys!<br/>
+					
+					Logo edited by <a href="https://twitter.com/MelonSpeedruns" target="_blank" style="color: #d62013;">MelonSpeedruns</a>!
+					
 				</p>
 			</div>
 		</div>
