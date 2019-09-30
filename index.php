@@ -10,13 +10,13 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<link rel="icon" href="favicon.png">
+		<link rel="icon" target="_blank" href="favicon.png">
 		<title>TP Randomizer</title>
 		<meta property="og:title" content="Twilight Princess Randomizer" />
 		<meta property="og:url" content="https://rando.tpspeed.run/" />
 		<meta property="og:image" content="https://rando.tpspeed.run/img/logo.png" />
 		<meta property="og:description" content="The official Twilight Princess Randomizer website! From download to setup and even tools!" />
-		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" target="_blank" href="css/style.css">
 	</head>
 	<body>
 		<img src="img/logo.png"/>
@@ -26,16 +26,16 @@
 			Update your browser for more security, and in order to see this website.
 			<br />
 			There are plenty of other browsers far more secure and modern, for example 
-			<a href="https://www.google.com/chrome/" style="color: red;">Chrome</a>
+			<a target="_blank" href="https://www.google.com/chrome/" style="color: red;">Chrome</a>
 			 or 
-			<a href="https://www.mozilla.org/en-US/firefox/new/" style="color: red;">Firefox.</a>
+			<a target="_blank" href="https://www.mozilla.org/en-US/firefox/new/" style="color: red;">Firefox.</a>
 		</div>
 		<div id="IsNotIE">
 			<div class="blackbg">
 				<h1>Quick download</h1>
-				<a href="<?php get_dir('download/gci','us'); ?>" download><img class="blackbor flag" src="img/usa.jpg" /></a>
-				<a href="<?php get_dir('download/gci','eu'); ?>" download><img class="blackbor flag" src="img/eur.jpg" /></a>
-				<a href="<?php get_dir('download/gci','jp'); ?>" download><img class="blackbor flag" src="img/jpn.jpg" /></a>
+				<a target="_blank" href="<?php get_dir('download/gci','us'); ?>" download><img class="blackbor flag" src="img/usa.jpg" /></a>
+				<a target="_blank" href="<?php get_dir('download/gci','eu'); ?>" download><img class="blackbor flag" src="img/eur.jpg" /></a>
+				<a target="_blank" href="<?php get_dir('download/gci','jp'); ?>" download><img class="blackbor flag" src="img/jpn.jpg" /></a>
 			</div>
 			<div class="blackbg">
 				<h1>Set up guide</h1>
@@ -86,24 +86,24 @@
 							<table>
 								<tr>
 									<td class="rBor">
-										<a href="https://takarikka.github.io/files/nintendont.zip" target="_blank"><img src="img/nintendont.png" /></a>
+										<a target="_blank" href="https://takarikka.github.io/files/nintendont.zip"><img src="img/nintendont.png" /></a>
 									</td>
 									<td class="rBor">
-										<a href="https://takarikka.github.io/files/gcmm.zip" target="_blank"><img src="img/github.png" /></a>
+										<a target="_blank" href="https://takarikka.github.io/files/gcmm.zip"><img src="img/github.png" /></a>
 									</td>
 									<td>
-										<a href="https://mirror.tpspeed.run/Software/Homebrew/Wii/NeoGamma%20Twilight%20Princess.zip" target="_blank"><img src="img/neogamma.png" /></a>
+										<a target="_blank" href="https://mirror.tpspeed.run/Software/Homebrew/Wii/NeoGamma%20Twilight%20Princess.zip"><img src="img/neogamma.png" /></a>
 									</td>
 								</tr>
 								<tr>
 									<td class="rBor">
-										<a href="https://takarikka.github.io/files/nintendont.zip" target="_blank">Nintendont<br />Package</a>
+										<a target="_blank" href="https://takarikka.github.io/files/nintendont.zip">Nintendont<br />Package</a>
 									</td>
 									<td class="rBor">
-										<a href="https://takarikka.github.io/files/gcmm.zip" target="_blank">GCMM 1.4f</a>
+										<a target="_blank" href="https://takarikka.github.io/files/gcmm.zip">GCMM 1.4f</a>
 									</td>
 									<td>
-										<a href="https://mirror.tpspeed.run/Software/Homebrew/Wii/NeoGamma%20Twilight%20Princess.zip" target="_blank">Neogamma</a>
+										<a target="_blank" href="https://mirror.tpspeed.run/Software/Homebrew/Wii/NeoGamma%20Twilight%20Princess.zip">Neogamma</a>
 									</td>
 								</tr>
 							</table>
@@ -117,17 +117,17 @@
 								<br />
 								Download the REL Loader cheat for to your region:
 							</p>
-							<a class="usa" href="<?php get_dir('download/gct','GZ2E01'); ?>" download><img class="usa blackbor flag"src="img/usa.jpg" /></a>
-							<a class="eur" href="<?php get_dir('download/gct','GZ2P01'); ?>" download><img class="eur blackbor flag" src="img/eur.jpg" /></a>
-							<a class="jap" href="<?php get_dir('download/gct','GZ2J01'); ?>" download><img class="jap blackbor flag"src="img/jpn.jpg" /></a>
+							<a class="usa" target="_blank" href="<?php get_dir('download/gct','GZ2E01'); ?>" download><img class="usa blackbor flag"src="img/usa.jpg" /></a>
+							<a class="eur" target="_blank" href="<?php get_dir('download/gct','GZ2P01'); ?>" download><img class="eur blackbor flag" src="img/eur.jpg" /></a>
+							<a class="jap" target="_blank" href="<?php get_dir('download/gct','GZ2J01'); ?>" download><img class="jap blackbor flag"src="img/jpn.jpg" /></a>
 							<p>
 								Place REL Loader cheat in the "codes" folder.
 								<br />
 								Download the lastest version of the download/gci for your game region:
 							</p>
-							<a class="usa" href="<?php get_dir('download/gci','us'); ?>" download><img class="usa blackbor flag" src="img/usa.jpg" /></a>
-							<a class="eur" href="<?php get_dir('download/gci','eu'); ?>" download><img class="eur blackbor flag" src="img/eur.jpg" /></a>
-							<a class="jap" href="<?php get_dir('download/gci','jp'); ?>" download><img class="jap blackbor flag" src="img/jpn.jpg" /></a>
+							<a class="usa" target="_blank" href="<?php get_dir('download/gci','us'); ?>" download><img class="usa blackbor flag" src="img/usa.jpg" /></a>
+							<a class="eur" target="_blank" href="<?php get_dir('download/gci','eu'); ?>" download><img class="eur blackbor flag" src="img/eur.jpg" /></a>
+							<a class="jap" target="_blank" href="<?php get_dir('download/gci','jp'); ?>" download><img class="jap blackbor flag" src="img/jpn.jpg" /></a>
 							<p>
 								Create a "MCBACKUP" folder.
 								<br />
@@ -220,12 +220,12 @@
 							<table>
 								<tr>
 									<td>
-										<a href="https://en.dolphin-emu.org/download/" target="_blank"><img src="img/dolphin.png" /></a>
+										<a target="_blank" href="https://en.dolphin-emu.org/download/"><img src="img/dolphin.png" /></a>
 									</td>
 								</tr>
 								<tr>
 									<td>
-										<a href="https://en.dolphin-emu.org/download/" target="_blank">Dolphin Emulator</a>
+										<a target="_blank" href="https://en.dolphin-emu.org/download/">Dolphin Emulator</a>
 									</td>
 								</tr>
 							</table>
@@ -248,12 +248,6 @@
 								</div>
 							</label>
 							<p>
-								Download the REL Loader cheat for to your region:
-							</p>
-							<a class="usa" href="<?php get_dir('download/gct','GZ2E01'); ?>" download><img class="usa blackbor flag" src="img/usa.jpg" /></a>
-							<a class="eur" href="<?php get_dir('download/gct','GZ2P01'); ?>" download><img class="eur blackbor flag" src="img/eur.jpg" /></a>
-							<a class="jap" href="<?php get_dir('download/gct','GZ2J01'); ?>" download><img class="jap blackbor flag" src="img/jpn.jpg" /></a>
-							<p>
 								Open Dolphin, right click on TP and open properties
 							</p>
 							<img class="blackbor" src="img/dol_1.png" />
@@ -267,9 +261,9 @@
 							<p>
 								Copy this REL Loader code for to your game region:
 							</p>
-							<a class="usa" href="https://github.com/zsrtp/GC-DevTools/blob/master/relloader/Code/RELLoaderGecko_US.txt" download><img class="usa blackbor flag" src="img/usa.jpg" /></a>
-							<a class="eur" href="https://github.com/zsrtp/GC-DevTools/blob/master/relloader/Code/RELLoaderGecko_EU.txt" download><img class="eur blackbor flag" src="img/eur.jpg" /></a>
-							<a class="jap" href="https://github.com/zsrtp/GC-DevTools/blob/master/relloader/Code/RELLoaderGecko_JP.txt" download><img class="jap blackbor flag" src="img/jpn.jpg" /></a>
+							<a class="usa" target="_blank" href="https://github.com/zsrtp/GC-DevTools/blob/master/relloader/Code/RELLoaderGecko_US.txt" download><img class="usa blackbor flag" src="img/usa.jpg" /></a>
+							<a class="eur" target="_blank" target="_blank" href="https://github.com/zsrtp/GC-DevTools/blob/master/relloader/Code/RELLoaderGecko_EU.txt" download><img class="eur blackbor flag" src="img/eur.jpg" /></a>
+							<a class="jap" target="_blank" href="https://github.com/zsrtp/GC-DevTools/blob/master/relloader/Code/RELLoaderGecko_JP.txt" download><img class="jap blackbor flag" src="img/jpn.jpg" /></a>
 							<p>
 								<span class="spanLow5">Make a new line with "[Gecko]" and paste the REL Loader code under it</span>
 								<span class="spanHigh5">Paste the code in the "Code:" black space and click on "Save"</span>
@@ -284,9 +278,9 @@
 							<p>
 								Download the lastest version of the download/gci for your game region:
 							</p>
-							<a class="usa" href="<?php get_dir('download/gci','us'); ?>" download><img class="usa blackbor flag" src="img/usa.jpg" /></a>
-							<a class="eur" href="<?php get_dir('download/gci','eu'); ?>" download><img class="eur blackbor flag" src="img/eur.jpg" /></a>
-							<a class="jap" href="<?php get_dir('download/gci','jp'); ?>" download><img class="jap blackbor flag" src="img/jpn.jpg" /></a>
+							<a class="usa" target="_blank" href="<?php get_dir('download/gci','us'); ?>" download><img class="usa blackbor flag" src="img/usa.jpg" /></a>
+							<a class="eur" target="_blank" href="<?php get_dir('download/gci','eu'); ?>" download><img class="eur blackbor flag" src="img/eur.jpg" /></a>
+							<a class="jap" target="_blank" href="<?php get_dir('download/gci','jp'); ?>" download><img class="jap blackbor flag" src="img/jpn.jpg" /></a>
 							<p>
 								In Dolphin, go to tools, and open the Memory Card Manager
 							</p>
@@ -309,42 +303,42 @@
 				<table>
 					<tr>
 						<td class="rBor">
-							<a href="https://takarikka.github.io/TP-Tracker/" target="_blank"><img src="img/github.png" /></a>
+							<a target="_blank" href="https://takarikka.github.io/TP-Tracker/"><img src="img/github.png" /></a>
 						</td>
 						<td class="rBor">
-							<a href="https://docs.google.com/spreadsheets/d/1quJjkAGV7asF1CNRtJEDNsy9Oga7hmzGLe09u2zxdJI/edit#gid=1131787935" target="_blank"><img src="img/sheets.png" /></a>
+							<a target="_blank" href="https://docs.google.com/spreadsheets/d/1quJjkAGV7asF1CNRtJEDNsy9Oga7hmzGLe09u2zxdJI/edit#gid=1131787935"><img src="img/sheets.png" /></a>
 						</td>
 						<td class="rBor">
-							<a href="http://tp.docs.aecx.cc/Yet+Another+GameCube+Documentation/index.html" target="_blank"><img src="img/yagcd.png" /></a>
+							<a target="_blank" href="http://tp.docs.aecx.cc/Yet+Another+GameCube+Documentation/index.html"><img src="img/yagcd.png" /></a>
 						</td>
 						<td class="rBor">
-							<a href="https://github.com/zsrtp" target="_blank"><img src="img/tp.png" /></a>
+							<a target="_blank" href="https://github.com/zsrtp"><img src="img/tp.png" /></a>
 						</td>
 						<td class="rBor">
-							<a href="https://wiki.tpspeed.run/Main_Page" target="_blank"><img src="img/wiki.png" /></a>
+							<a target="_blank" href="https://wiki.tpspeed.run/Main_Page"><img src="img/wiki.png" /></a>
 						</td>
 						<td>
-							<a href="https://discord.tpspeed.run/" target="_blank"><img src="img/discord.png" /></a>
+							<a target="_blank" href="https://discord.tpspeed.run/"><img src="img/discord.png" /></a>
 						</td>
 					</tr>
 					<tr>
 						<td class="rBor">
-							<a href="https://takarikka.github.io/TP-Tracker/" target="_blank">Taka's Item Tracker</a>
+							<a target="_blank" href="https://takarikka.github.io/TP-Tracker/">Taka's Item Tracker</a>
 						</td>
 						<td class="rBor">
-							<a href="https://docs.google.com/spreadsheets/d/1quJjkAGV7asF1CNRtJEDNsy9Oga7hmzGLe09u2zxdJI/edit#gid=1131787935" target="_blank">Rando Dev Sheet</a>
+							<a target="_blank" href="https://docs.google.com/spreadsheets/d/1quJjkAGV7asF1CNRtJEDNsy9Oga7hmzGLe09u2zxdJI/edit#gid=1131787935">Rando Dev Sheet</a>
 						</td>
 						<td class="rBor">
-							<a href="http://tp.docs.aecx.cc/Yet+Another+GameCube+Documentation/index.html" target="_blank">YAGCD</a>
+							<a target="_blank" href="http://tp.docs.aecx.cc/Yet+Another+GameCube+Documentation/index.html">YAGCD</a>
 						</td>
 						<td class="rBor">
-							<a href="https://github.com/zsrtp" target="_blank">TP Devs</a>
+							<a target="_blank" href="https://github.com/zsrtp">TP Devs</a>
 						</td>
 						<td class="rBor">
-							<a href="https://wiki.tpspeed.run/Main_Page" target="_blank">TP Speedrun Wiki</a>
+							<a target="_blank" href="https://wiki.tpspeed.run/Main_Page">TP Speedrun Wiki</a>
 						</td>
 						<td>
-							<a href="https://discord.tpspeed.run/" target="_blank">Discord</a>
+							<a target="_blank" href="https://discord.tpspeed.run/">Discord</a>
 						</td>
 					</tr>
 				</table>
@@ -354,11 +348,11 @@
 					v1.09 - Made with 
 					<img style="display: inline; margin: 0px 0px -10px;" src="img/heart.png" />
 					 by 
-					<a href="https://github.com/zsrtp/Randomizer-Frontend" target="_blank" style="color: #d62013;">Luneyes</a>!<br/>
+					<a target="_blank" href="https://github.com/zsrtp/Randomizer-Frontend" target="_blank" style="color: #d62013;">Luneyes</a>!<br/>
 					
 					Logo and background image are property of Nintendo. No infringement intended. We love you guys!<br/>
 					
-					Logo edited by <a href="https://twitter.com/MelonSpeedruns" target="_blank" style="color: #d62013;">MelonSpeedruns</a>!
+					Logo edited by <a target="_blank" href="https://twitter.com/MelonSpeedruns" target="_blank" style="color: #d62013;">MelonSpeedruns</a>!
 					
 				</p>
 			</div>
